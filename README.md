@@ -1,7 +1,6 @@
 # Bottom menu
-# Bottom menu Module
 
-“Bottom menu Module” is an open-source module built using Flutter, a powerful dart base library for building cross-platform mobile apps for Android and iOS platforms.
+“Bottom menu” is an open-source module built using Flutter, a powerful dart base library for building cross-platform mobile apps for Android and iOS platforms.
 
 It allows to add the following options to access your app:
 
